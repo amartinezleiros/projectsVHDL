@@ -1,0 +1,44 @@
+{D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/AND.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/AND.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and2
+-- Compiling architecture and2 of and2
+
+} {} {}} {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/OR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/OR.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or2
+-- Compiling architecture or2 of or2
+
+} {} {}} {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/NOT.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/NOT.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not1
+-- Compiling architecture not1 of not1
+
+} {} {}} {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/BANCOPRUEBAS.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/BANCOPRUEBAS.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity BP_Circuito
+-- Compiling architecture BP_Circuito of BP_Circuito
+
+} {} {}} {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/CIRCUITO.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 1/CIRCUITO.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Circuito
+-- Compiling architecture Comp of Circuito
+-- Compiling architecture Estruc_Circuito of Circuito
+-- Loading entity Circuito
+
+} {} {}}

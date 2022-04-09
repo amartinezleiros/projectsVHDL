@@ -1,0 +1,19 @@
+{D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 2/BPCircuitoCombinacional.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 2/BPCircuitoCombinacional.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity BP_CircuitoCombinacional
+-- Compiling architecture Comportamiento of BP_CircuitoCombinacional
+
+} {} {}} {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 2/CircuitoCombinacional.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/BIBLIOTECAS/Desktop/PEC_1_ICIII_ASEL_MARTINEZ/Ejercicio 2/CircuitoCombinacional.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CircuitoCombinacional
+-- Compiling architecture Comportamiento of CircuitoCombinacional
+
+} {} {}}
